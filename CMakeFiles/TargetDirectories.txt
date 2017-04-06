@@ -1,0 +1,3 @@
+/Users/victortersmitten/Gitprojects/Detectors/CMakeFiles/rebuild_cache.dir
+/Users/victortersmitten/Gitprojects/Detectors/CMakeFiles/edit_cache.dir
+/Users/victortersmitten/Gitprojects/Detectors/CMakeFiles/main.dir
